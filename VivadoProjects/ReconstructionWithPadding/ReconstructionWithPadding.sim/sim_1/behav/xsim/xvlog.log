@@ -1,0 +1,28 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/AbsoluteDiffence.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AbsoluteDifference
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/EdgeDetectorForDVDH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EdgeDetectorForDVDH
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/GInterpolatorGout.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GInterpolatorGout
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/InputImageMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InputImageMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/Multiply3by8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiply3by8
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/OverallTopModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module OverallTopModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/RBinpAtBR_M1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RBinpAtBR_M1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/RBinpAtG_M2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RBinpAtG_M2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/RBinpAtG_M3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RBinpAtG_M3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/RGBCreation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RGBCreation
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/RegisterBanks3x5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterBanks3x5
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sources_1/new/SingleLineM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SingleLineM
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/ReconstructionWithPadding/ReconstructionWithPadding.srcs/sim_1/new/tbBayerReconstructionTestOut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tbBayerReconstructionTestOut

@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/AbsoluteDiffence.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/Controller.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/EdgeDetectorForDVDH.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/GInterpolatorGout.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/InputImageMemory.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/Multiply3by8.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/OverallTopModule.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/RBinpAtBR_M1.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/RBinpAtG_M2.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/RBinpAtG_M3.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/RGBCreation.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/RegisterBanks3x5.v" \
+"../../../../ReconstructionWithPadding.srcs/sources_1/new/SingleLineM.v" \
+"../../../../ReconstructionWithPadding.srcs/sim_1/new/tbBayerReconstructionTestOut.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
