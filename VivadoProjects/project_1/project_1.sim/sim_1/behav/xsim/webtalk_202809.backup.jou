@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun  6 03:23:21 2021
+# Process ID: 202809
+# Current directory: /media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/GInterpolatorGout_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/project_1/project_1.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /media/narendiran/MOVIES/DeMosaicBased/VivadoProjects/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/GInterpolatorGout_behav/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tbBayerReconstructionTestOut_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tbBayerReconstructionTestOut" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="101009833333fs"></ZoomStartTime>
+      <ZoomEndTime time="101106033334fs"></ZoomEndTime>
+      <Cursor1Time time="101090000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="188"></NameColumnWidth>
+      <ValueColumnWidth column_width="119"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject type="logic" fp_name="/tbBayerReconstructionTestOut/DUT/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tbBayerReconstructionTestOut/DUT/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tbBayerReconstructionTestOut/DUT/startProcess">
+      <obj_property name="ElementShortName">startProcess</obj_property>
+      <obj_property name="ObjectShortName">startProcess</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/CTR/presentState">
+      <obj_property name="ElementShortName">presentState[2:0]</obj_property>
+      <obj_property name="ObjectShortName">presentState[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/addrToImageMem">
+      <obj_property name="ElementShortName">addrToImageMem[13:0]</obj_property>
+      <obj_property name="ObjectShortName">addrToImageMem[13:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tbBayerReconstructionTestOut/DUT/doShiftRegisterBanks">
+      <obj_property name="ElementShortName">doShiftRegisterBanks</obj_property>
+      <obj_property name="ObjectShortName">doShiftRegisterBanks</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/CTR/i_rows">
+      <obj_property name="ElementShortName">i_rows[6:0]</obj_property>
+      <obj_property name="ObjectShortName">i_rows[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/CTR/j_cols">
+      <obj_property name="ElementShortName">j_cols[6:0]</obj_property>
+      <obj_property name="ObjectShortName">j_cols[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/Rout">
+      <obj_property name="ElementShortName">Rout[10:0]</obj_property>
+      <obj_property name="ObjectShortName">Rout[10:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/Gout">
+      <obj_property name="ElementShortName">Gout[10:0]</obj_property>
+      <obj_property name="ObjectShortName">Gout[10:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/Bout">
+      <obj_property name="ElementShortName">Bout[10:0]</obj_property>
+      <obj_property name="ObjectShortName">Bout[10:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/i_rows">
+      <obj_property name="ElementShortName">i_rows[6:0]</obj_property>
+      <obj_property name="ObjectShortName">i_rows[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/j_cols">
+      <obj_property name="ElementShortName">j_cols[6:0]</obj_property>
+      <obj_property name="ObjectShortName">j_cols[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/R7">
+      <obj_property name="ElementShortName">R7[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R7[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/GoutInterPolated">
+      <obj_property name="ElementShortName">GoutInterPolated[9:0]</obj_property>
+      <obj_property name="ObjectShortName">GoutInterPolated[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/RBout_M1">
+      <obj_property name="ElementShortName">RBout_M1[10:0]</obj_property>
+      <obj_property name="ObjectShortName">RBout_M1[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/RBout_M2">
+      <obj_property name="ElementShortName">RBout_M2[9:0]</obj_property>
+      <obj_property name="ObjectShortName">RBout_M2[9:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/RBout_M3">
+      <obj_property name="ElementShortName">RBout_M3[8:0]</obj_property>
+      <obj_property name="ObjectShortName">RBout_M3[8:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/RoutFinal">
+      <obj_property name="ElementShortName">RoutFinal[10:0]</obj_property>
+      <obj_property name="ObjectShortName">RoutFinal[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/GoutFinal">
+      <obj_property name="ElementShortName">GoutFinal[10:0]</obj_property>
+      <obj_property name="ObjectShortName">GoutFinal[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/BoutFinal">
+      <obj_property name="ElementShortName">BoutFinal[10:0]</obj_property>
+      <obj_property name="ObjectShortName">BoutFinal[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/NBits">
+      <obj_property name="ElementShortName">NBits[31:0]</obj_property>
+      <obj_property name="ObjectShortName">NBits[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/IMWIDTH">
+      <obj_property name="ElementShortName">IMWIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IMWIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tbBayerReconstructionTestOut/DUT/RGBCreationins/IMHEIGHT">
+      <obj_property name="ElementShortName">IMHEIGHT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IMHEIGHT[31:0]</obj_property>
+   </wvobject>
+</wave_config>

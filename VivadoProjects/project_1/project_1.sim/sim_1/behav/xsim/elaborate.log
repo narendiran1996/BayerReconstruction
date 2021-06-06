@@ -1,0 +1,25 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /media/narendiran/ubuntu_install/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto fd0a79f8ed48405e98e47d5f2e17aa5b --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tbBayerReconstructionTestOut_behav xil_defaultlib.tbBayerReconstructionTestOut xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Controller
+Compiling module xil_defaultlib.InputImageMemory(IMMEMFILE="/med...
+Compiling module xil_defaultlib.SingleLineM
+Compiling module xil_defaultlib.RegisterBanks3x5
+Compiling module xil_defaultlib.AbsoluteDifference
+Compiling module xil_defaultlib.EdgeDetectorForDVDH
+Compiling module xil_defaultlib.Multiply3by8(NBits=9)
+Compiling module xil_defaultlib.GInterpolatorGout
+Compiling module xil_defaultlib.RBinpAtBR_M1
+Compiling module xil_defaultlib.RBinpAtG_M2
+Compiling module xil_defaultlib.RBinpAtG_M3
+Compiling module xil_defaultlib.RGBCreation
+Compiling module xil_defaultlib.OverallTopModule
+Compiling module xil_defaultlib.tbBayerReconstructionTestOut
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tbBayerReconstructionTestOut_behav
