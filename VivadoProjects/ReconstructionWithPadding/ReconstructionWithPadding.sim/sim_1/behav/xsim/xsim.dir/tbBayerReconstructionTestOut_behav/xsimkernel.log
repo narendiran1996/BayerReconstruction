@@ -1,4 +1,0 @@
-Running: xsim.dir/tbBayerReconstructionTestOut_behav/xsimk -simmode gui -wdb tbBayerReconstructionTestOut_behav.wdb -simrunnum 0 -socket 45609
-Design successfully loaded
-Design Loading Memory Usage: 33884 KB (Peak: 33884 KB)
-Design Loading CPU Usage: 20 ms

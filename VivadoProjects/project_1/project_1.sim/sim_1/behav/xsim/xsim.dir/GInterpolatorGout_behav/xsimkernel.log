@@ -1,7 +1,0 @@
-Running: xsim.dir/GInterpolatorGout_behav/xsimk -simmode gui -wdb GInterpolatorGout_behav.wdb -simrunnum 0 -socket 35673
-Design successfully loaded
-Design Loading Memory Usage: 33360 KB (Peak: 33480 KB)
-Design Loading CPU Usage: 30 ms
-Simulation completed
-Simulation Memory Usage: 115096 KB (Peak: 172628 KB)
-Simulation CPU Usage: 40 ms

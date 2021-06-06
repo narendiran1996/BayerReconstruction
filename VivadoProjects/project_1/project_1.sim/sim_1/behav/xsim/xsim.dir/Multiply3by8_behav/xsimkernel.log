@@ -1,7 +1,0 @@
-Running: xsim.dir/Multiply3by8_behav/xsimk -simmode gui -wdb Multiply3by8_behav.wdb -simrunnum 0 -socket 52293
-Design successfully loaded
-Design Loading Memory Usage: 33352 KB (Peak: 33472 KB)
-Design Loading CPU Usage: 30 ms
-Simulation completed
-Simulation Memory Usage: 115088 KB (Peak: 172620 KB)
-Simulation CPU Usage: 50 ms
