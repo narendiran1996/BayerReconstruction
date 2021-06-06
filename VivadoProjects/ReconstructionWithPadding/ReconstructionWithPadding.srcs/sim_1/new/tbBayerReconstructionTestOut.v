@@ -41,9 +41,9 @@ initial
 
 integer f1, f2, f3;
 initial begin
-    f1 = $fopen("/media/narendiran/MOVIES/DeMosaicBased/OutputFiles/RoutPadded.tx","w");
-    f2 = $fopen("/media/narendiran/MOVIES/DeMosaicBased/OutputFiles/GoutPadded.tx","w");
-    f3 = $fopen("/media/narendiran/MOVIES/DeMosaicBased/OutputFiles/BoutPadded.tx","w");
+    f1 = $fopen("/home/narendiran/newProjectLocation/DeMosaicBased/OutputFiles/RoutPadded.tx","w");
+    f2 = $fopen("/home/narendiran//newProjectLocation/DeMosaicBased/OutputFiles/GoutPadded.tx","w");
+    f3 = $fopen("/home/narendiran//newProjectLocation/DeMosaicBased/OutputFiles/BoutPadded.tx","w");
 end
 
 always @(posedge clk)

@@ -4,9 +4,9 @@ module OverallTopModule
                 #
                 (
                     parameter NBits = 8,
-                    parameter IMWIDTH = 104,
-                    parameter IMHEIGHT = 102,
-                    parameter IMMEMFILE = "/media/narendiran/MOVIES/DeMosaicBased/BayerImagePadded.mem"
+                    parameter IMWIDTH = 504,
+                    parameter IMHEIGHT = 377,
+                    parameter IMMEMFILE = "/home/narendiran//newProjectLocation/DeMosaicBased/BayerImagePadded.mem"
                 ) 
                 (
                     input wire clk,
