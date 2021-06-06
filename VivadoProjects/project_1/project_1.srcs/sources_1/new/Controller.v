@@ -42,7 +42,7 @@ reg canIncIMaddr;
 reg [2:0]waitCycles;
 
 wire completedAll;
-assign completedAll =  (i_rows == (IMWIDTH-2) && j_cols == (IMWIDTH-3));
+assign completedAll =  (i_rows == (IMHEIGHT-2) && j_cols == (IMWIDTH-3));
 
 always @(presentState, startProcess, addrToImageMem, i_rows, j_cols, waitCycles, completedAll)
     begin
